@@ -1,0 +1,8 @@
+Currently facing the error of KeyError
+
+I need to understand how the library of pandas_ta creates column names 
+
+And does my file output-copy.csv not having upper and lower colun is resulting the key error?
+
+The correct name for the column for pandas_ta is: BBU_20_2.0
+Reference: https://stackoverflow.com/questions/70996291/how-to-find-current-upper-bollinger-band-in-pandas-ta
